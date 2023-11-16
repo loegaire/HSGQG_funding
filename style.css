@@ -1,0 +1,15 @@
+body {
+background-color:#282828;
+}
+h1, h2 {
+color:#edbbb2;
+text-align:center;
+}
+b1, b2 {
+color:#8ec07c;
+}
+mark {
+background-color:transparent;
+color:#d65d0e;
+font-style:italic;
+}
