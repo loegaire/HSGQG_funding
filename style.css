@@ -8,8 +8,40 @@ text-align:center;
 b1, b2 {
 color:#8ec07c;
 }
+b1{
+position:relative
+}
 mark {
 background-color:transparent;
 color:#d65d0e;
 font-style:italic;
+}
+img{
+border-radius:10px;
+}
+.container{
+position:relative;
+text-align:center;
+color:#8ec07c;
+}
+.top-left{
+position:absolute;
+top:3px;
+left:500px;
+background-color:#282828;
+border-radius:10px;
+padding:5px;
+border:1px solid #d5c4a1;
+}
+p {
+position:relative;
+padding:10px;
+width:300px;
+background-color:#3c3836;
+bottom:600px;
+color:#b8bb26;
+font-size:20px;
+line-height:30px;
+border-radius:10px;
+border: 2px solid #d5c4a1;
 }
